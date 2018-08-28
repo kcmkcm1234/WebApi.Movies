@@ -1,0 +1,11 @@
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.deps.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.dll
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.pdb
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.dll
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.pdb
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.runtimeconfig.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.DataAccessLayer\obj\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.csprojAssemblyReference.cache

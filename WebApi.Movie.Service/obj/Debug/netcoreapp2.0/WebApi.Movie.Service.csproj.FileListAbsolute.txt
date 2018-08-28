@@ -1,0 +1,14 @@
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.Service.deps.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.Service.runtimeconfig.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.Service.runtimeconfig.dev.json
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.Service.dll
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.Service.pdb
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.dll
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\bin\Debug\netcoreapp2.0\WebApi.Movie.DataAccessLayer.pdb
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.csprojAssemblyReference.cache
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.csproj.CoreCompileInputs.cache
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.AssemblyInfoInputs.cache
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.AssemblyInfo.cs
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.csproj.CopyComplete
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.dll
+C:\Users\Bella\Desktop\Webapi\WebApi.Movies\WebApi.Movies\WebApi.Movie.Service\obj\Debug\netcoreapp2.0\WebApi.Movie.Service.pdb
